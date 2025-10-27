@@ -82,14 +82,4 @@ Once launched :
 
 ---
 
-## 🪄 Future Enhancements :--  
-
-✨ **Coming Soon :**  
-- 🌐 Multi-output translation (translate into multiple languages at once)  
-- 🗣️ Voice selection for output speech  
-- 📱 Cross-platform GUI design (desktop/mobile)  
-- 🧠 Offline translation engine integration   
-
----
-
 🌟 “EchoLingo helps you break language barriers — one word at a time.” 🌟  
