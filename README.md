@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features  
+## 🚀 Features :-- 
 
 - 🎧 **Real-time Speech Recognition** – Speak naturally, and EchoLingo captures your voice instantly.  
 - 🌍 **Auto Language Detection** – Detects the language you’re speaking in automatically.  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 How It Works  
+## 🧠 How It Works :-- 
 
 1. 🎙️ Click **“Start Listening”**.  
 2. 🗣️ Speak in any language (EchoLingo will detect it automatically).  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧩 Tech Stack  
+## 🧩 Tech Stack :-- 
 
 | Component | Technology |
 |------------|-------------|
@@ -41,12 +41,12 @@
 
 ---
 
-## ⚙️ Installation  
+## ⚙️ Installation :-- 
 
-### 🪄 Prerequisites  
+### 🪄 Prerequisites : 
 Make sure you have **Python 3.8+** installed on your system.
 
-### 🧰 Setup Steps  
+### 🧰 Setup Steps : 
 ```bash
 1️⃣ Clone the repository :--  git clone
 
@@ -57,14 +57,14 @@ Make sure you have **Python 3.8+** installed on your system.
 
 ---
 
-## ▶️ Usage  
+## ▶️ Usage :-- 
 
-Run the app with:
+Run the app with :
 ```bash
 python echolingo.py
 ```
 
-Once launched:
+Once launched :
 - 🎙️ Click **Start Listening** to begin recording.  
 - 🗣️ Speak into your microphone.  
 - 🌍 View translated text in the console area.  
@@ -73,7 +73,7 @@ Once launched:
 
 ---
 
-## 🖼️ UI Preview  
+## 🖼️ UI Preview :-- 
 
 🪄 A sleek, animated interface with:  
 - Dynamic background transitions 🌈  
@@ -82,9 +82,9 @@ Once launched:
 
 ---
 
-## 🪄 Future Enhancements  
+## 🪄 Future Enhancements :--  
 
-✨ **Coming Soon:**  
+✨ **Coming Soon :**  
 - 🌐 Multi-output translation (translate into multiple languages at once)  
 - 🗣️ Voice selection for output speech  
 - 📱 Cross-platform GUI design (desktop/mobile)  
