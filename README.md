@@ -1,6 +1,6 @@
 # 🌐 EchoLingo 💬  
 
-🎙️ **EchoLingo** is a **real-time speech translation and synthesis app**. It allows you to **speak in one language**, automatically **detects it**, **translates it** into another language of your choice, and even **speaks it aloud** using **text-to-speech**. Perfect for multilingual communication and learning! 🌎✨  
+🎙️ **EchoLingo** is a **speech translation and synthesis app**. It allows you to **speak in one language**, automatically **detects it**, **translates it** into another language of your choice, and even **speaks it aloud** using **text-to-speech**. Perfect for multilingual communication and learning! 🌎✨  
 
 ---
 
@@ -48,13 +48,13 @@ Make sure you have **Python 3.8+** installed on your system.
 
 ### 🧰 Setup Steps  
 ```bash
- 1️⃣ Clone the repository
+1️⃣ Clone the repository
 git clone
 
- 2️⃣ Navigate to the project folder
+2️⃣ Navigate to the project folder
 cd EchoLingo
 
- 3️⃣ Install dependencies
+3️⃣ Install dependencies
 pip install speechrecognition gtts mtranslate langdetect tkinter
 ```
 
