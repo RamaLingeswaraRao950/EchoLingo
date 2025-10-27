@@ -48,14 +48,11 @@ Make sure you have **Python 3.8+** installed on your system.
 
 ### 🧰 Setup Steps  
 ```bash
-1️⃣ Clone the repository
-git clone
+1️⃣ Clone the repository :--  git clone
 
-2️⃣ Navigate to the project folder
-cd EchoLingo
+2️⃣ Navigate to the project folder :--  cd EchoLingo
 
-3️⃣ Install dependencies
-pip install speechrecognition gtts mtranslate langdetect tkinter
+3️⃣ Install dependencies :--  pip install speechrecognition gtts mtranslate langdetect tkinter
 ```
 
 ---
