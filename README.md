@@ -1,6 +1,6 @@
-# 🌐 EchoLingo – Speak Freely, Understand Instantly 💬  
+# 🌐 EchoLingo 💬  
 
-🎙️ **EchoLingo** is a **real-time speech translation and synthesis app** built using **Python** and **Tkinter**.  
+🎙️ **EchoLingo** is a **real-time speech translation and synthesis app**.  
 It allows you to **speak in one language**, automatically **detects it**, **translates it** into another language of your choice, and even **speaks it aloud** using **text-to-speech**.  
 Perfect for multilingual communication and learning! 🌎✨  
 
@@ -60,8 +60,6 @@ cd EchoLingo
 pip install speechrecognition gtts mtranslate langdetect tkinter
 ```
 
-*(Note: `tkinter` usually comes pre-installed with Python.)*
-
 ---
 
 ## ▶️ Usage  
@@ -89,25 +87,6 @@ Once launched:
 
 ---
 
-## 📁 Project Structure  
-
-```
-EchoLingo/
-│
-├── echolingo.py                 # Main application file
-├── history/
-│   └── speech_translations.txt  # Saved translation history
-└── README.md                    # Project documentation
-```
-
----
-
-## 🧑‍💻 Author  
-
-**👨‍💻 Rama Lingeswara Rao Sivakavi**   
-
----
-
 ## 🪄 Future Enhancements  
 
 ✨ **Coming Soon:**  
@@ -118,4 +97,4 @@ EchoLingo/
 
 ---
 
-> 🌟 “EchoLingo helps you break language barriers — one word at a time.” 🌟  
+🌟 “EchoLingo helps you break language barriers — one word at a time.” 🌟  
